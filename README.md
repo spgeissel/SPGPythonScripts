@@ -4,4 +4,9 @@
 
 This project requires ptython3 and the requests packages.
 
-`python find_meteors.py`
+First, install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
